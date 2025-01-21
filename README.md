@@ -1,4 +1,4 @@
-# Urdu News Article Classification using Machine Learning
+# Urdu News Article Classification using Machine Learnin
 
 This repository contains the code and dataset for a comparative study on classifying Urdu news articles into five distinct categories: Entertainment, World, Business, Sports, and Science & Technology. The project explores the efficacy of various machine learning models, focusing on performance in a low-resource language setting.
 
